@@ -1,0 +1,41 @@
+# python helper
+easydict
+
+# torch helper
+lightning[pytorch-extra]
+einops
+monai
+monai-generative
+torchsummary
+timm
+tensorboard
+
+# image processing
+torchio
+nibabel
+albumentations
+pydicom
+scikit-learn
+scikit-image
+scipy
+pandas
+opencv-python
+
+# jupyter cores
+jupyterlab
+notebook
+
+# plugins
+ipywidgets
+jupyterlab_execute_time
+jupyterlab_nvdashboard
+jupyterlab-lsp
+python-lsp-server[all]
+lckr-jupyterlab-variableinspector
+
+# visualization
+seaborn
+plotly
+
+# additional
+openfl
